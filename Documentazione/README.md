@@ -1,0 +1,1 @@
+Qui la raccolta della documentazione delle parti utilizzate 

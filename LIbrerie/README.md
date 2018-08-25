@@ -1,0 +1,1 @@
+Qui le librerie specifiche e modificate per il progetto e la relativa documentazione
